@@ -54,4 +54,4 @@ Implemented serverless architecture (Google Cloud Functions) to protect API cred
 
 ---
 
-**For detailed writeup:** [portfolio link if available]
+**For detailed writeup:** https://portofolio-psi-wheat.vercel.app/
