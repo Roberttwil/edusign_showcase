@@ -38,14 +38,13 @@ Deaf students struggle to access video learning content. Manual SIBI translation
 - Demonstrates AI + mobile + cloud integration
 
 ## App Flow
-```
 1. Teacher uploads YouTube link
 2. Whisper AI transcribes audio
 3. System matches transcript to SIBI video clips
 4. Synchronized SIBI video generated
 5. Groq API generates comprehension quiz
 6. Students watch + take quiz
-```
+
 
 ## Team Project
 Built as part of Software Engineering course (PPL 2) at Universitas Padjadjaran
